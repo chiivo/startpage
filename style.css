@@ -15,3 +15,14 @@ html, body {
   margin: 0;
   padding: 0;
 }
+
+.left-container {
+  grid-area: left;
+  aspect-ratio: 1/1;
+}
+
+.right-container {
+  grid-area: right;
+  height: 50%;
+  width: 100%;
+}
