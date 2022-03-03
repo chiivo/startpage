@@ -1,1 +1,17 @@
+:root {
+  --color-bg: #262727;
+  --color-fg: #dddddd;
+  --color-link: #f5d1c8;
+  --color-link-visited: #555657;
+  --color-link-hover: #77bee0 ;
+}
 
+html, body {
+  background: var(--color-bg);
+  color: var(--color-fg);
+  font-family: "VictorMono Nerd Font";
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
