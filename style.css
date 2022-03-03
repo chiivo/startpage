@@ -18,7 +18,6 @@ html, body {
 
 .left-container {
   grid-area: left;
-  aspect-ratio: 1/1;
 }
 
 .right-container {
