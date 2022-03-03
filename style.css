@@ -33,7 +33,6 @@ html, body {
 
 .right-container {
   grid-area: right;
-  height: 100%;
   width: 100%;
 }
 
