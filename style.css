@@ -36,6 +36,12 @@ html, body {
   grid-area: right;
 }
 
+.image {
+  background-color: var(--color-bg2);
+  padding: 10px;
+  border-radius: 10px;
+}
+
 .links {
   background-color: var(--color-bg2);
   padding: 10px;
