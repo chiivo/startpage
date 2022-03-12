@@ -31,20 +31,19 @@ html, body {
 .left-container {
   grid-area: left;
 }
-
-.right-container {
-  grid-area: right;
-}
-
 .image {
   background-color: var(--color-bg2);
   padding: 10px;
   border-radius: 10px;
 }
 
+
+.right-container {
+  grid-area: right;
+}
 .links {
   background-color: var(--color-bg2);
-  padding: 10px;
+  padding: 5px 10px;
   border-radius: 10px;
   display: flex;
   flex-direction: column;
