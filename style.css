@@ -22,7 +22,7 @@ html, body {
   grid-template-columns: repeat(4, 1fr);
   grid-template-areas:
     ". left right .";
-  column-gap: 80px;
+  column-gap: 10px;
   justify-items: center;
   align-items: center;
   min-height: 100%;
@@ -50,7 +50,7 @@ html, body {
   align-items: center;
 }
 li {
-  font-size: 40px;
+  font-size: 20px;
   list-style-type: none;
 }
 a:link {
